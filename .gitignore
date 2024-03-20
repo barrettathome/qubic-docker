@@ -1,0 +1,15 @@
+###> PHPStorm ###
+.idea/
+###< PHPStorm ###
+
+###> VSCode ###
+.vscode/
+*.code-workspace
+###< VSCode ###
+
+###> MacOS ###
+.DS_Store
+###< MacOS ###
+
+###> Configuration Files ###
+appsettings.json
